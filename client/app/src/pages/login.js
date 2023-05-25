@@ -25,7 +25,6 @@ class Login extends Component {
     <div class="ears"></div>
     <div class="shirt-1"></div>
     <div class="shirt-2"></div>
-    <div class="shirt-3"></div>
   </figure>
          </div>
 
