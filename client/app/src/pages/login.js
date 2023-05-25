@@ -14,18 +14,6 @@ class Login extends Component {
  
              <input type='submit' className='submit'/>
              <h3> haven't an account yet ? <a href='/'>Register</a> </h3>
-              <figure aria-hidden="true">
-    <div class="person-body"></div>
-    <div class="neck skin"></div>
-    <div class="head skin">
-      <div class="eyes"></div>
-      <div class="mouth"></div>
-    </div>
-    <div class="hair"></div>
-    <div class="ears"></div>
-    <div class="shirt-1"></div>
-    <div class="shirt-2"></div>
-  </figure>
          </div>
 
         )
